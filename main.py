@@ -1,0 +1,1 @@
+linebeacon.start_with_device_message("014ff0e715", "1a2b3c4d5e6f70809010a0b0c0")
