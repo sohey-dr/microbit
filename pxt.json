@@ -1,11 +1,12 @@
 {
-    "name": "sample",
+    "name": "fukusimae_zemi",
     "description": "",
     "dependencies": {
         "core": "*",
         "microphone": "*",
         "bluetooth": "*",
-        "linebeacon": "github:pizayanz/pxt-linebeacon#v0.0.14"
+        "linebeacon": "github:pizayanz/pxt-linebeacon#v0.0.14",
+        "sample": "github:sohey-dr/microbit#568cb0f153087bcc6eb9e09ea73df8133f3a0542"
     },
     "files": [
         "main.blocks",
